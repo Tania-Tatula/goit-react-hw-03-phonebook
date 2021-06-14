@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.button {
+  width: 100%;
+  padding: 14px 20px;
+}
+
+.buttonDelete,
+.button {
+  background-color: #4caf50;
+  color: white;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.buttonDelete {
+  width: 75px;
+  padding: 8px;
+  margin-left: 5px;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+
+.contactsBlock {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.contactItem {
+  text-align: left;
+  margin: 15px;
+}
