@@ -28,8 +28,8 @@
 }
 
 .buttonDelete {
-  width: 75px;
-  padding: 8px;
+  padding: 1px 4px;
+  text-align: center;
   margin-left: 5px;
 }
 
